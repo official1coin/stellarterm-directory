@@ -1,339 +1,298 @@
 [
-    {
-        "domain": "1coin.io",
-        "website": "https://1coin.io",
-        "logo": "1coin.io",
-        "color": "#37A8EE",
-        "displayName": "1CAT",
-        "assets": [
-            {
-                "code": "1CAT",
-                "issuer": "GBCSYNK2B26ATKQXLFJ33WOFG4NT7WHO7QKW5DN6ZYRIMEFLN7JAM7XC"
-            }
-        ]
-    },
-    {
-        "domain": "useswivel.com",
-        "website": "https://useswivel.com",
-        "logo": "useswivel.com",
-        "color": "#68DF35",
-        "displayName": "SVL",
-        "assets": [
-            {
-                "code": "SVL",
-                "issuer": "GAZ7YF3VH7HHJFW2LCRKUVIBTTDJKJL5UDCNZGU3VEHZXUGSQCJ6Y6AD"
-            }
-        ]
-    },
-    {
-        "domain": "www.anchorusd.com",
-        "website": "https://www.anchorusd.com/",
-        "support": "support@anchorusd.com",
-        "logo": "anchorusd.com",
-        "color": "#00b4ce",
-        "displayName": "AnchorUSD",
-        "assets": [
-            {
-                "code": "USD",
-                "issuer": "GDUKMGUGDZQK6YHYA5Z6AY2G4XDSZPSZ3SW5UN3ARVMO6QSRDWP5YLEX",
-                "isCounterSelling": "true",
-                "withdraw": false,
-                "deposit": true
-            }
-        ]
-    },
-    {
-        "domain": "smartlands.io",
-        "website": "https://smartlands.io",
-        "logo": "smartlands.io",
-        "color": "#35AB62",
-        "displayName": "Smartlands",
-        "assets": [
-            {
-                "code": "SLT",
-                "issuer": "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
-            }
-        ]
-    },
-    {
-        "domain": "stronghold.co",
-        "website": "https://stronghold.co",
-        "logo": "stronghold.co",
-        "color": "#13ce66",
-        "displayName": "Stronghold",
-        "assets": [
-            {
-                "code": "XLM",
-                "issuer": "GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
-                "unlisted": true
-            },
-            {
-                "code": "SHX",
-                "issuer": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
-            }
-        ]
-    },
-    {
-        "domain": "sureremit.co",
-        "website": "https://sureremit.co",
-        "logo": "sureremit.co",
-        "color": "#363187",
-        "displayName": "SureRemit",
-        "assets": [
-            {
-                "code": "RMT",
-                "issuer": "GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N"
-            }
-        ]
-    },
-    {
-        "domain": "ripplefox.com",
-        "website": "https://ripplefox.com/anchor/",
-        "logo": "ripplefox.com",
-        "color": "#fc682a",
-        "displayName": "RippleFox",
-        "assets": [
-            {
-                "code": "CNY",
-                "issuer": "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX",
-                "isCounterSelling": "true"
-            }
-        ]
-    },
-    {
-        "domain": "apay.io",
-        "website": "https://apay.io/",
-        "support": "support@apay.io",
-        "logo": "papayame.com",
-        "color": "#efa344",
-        "displayName": "apay.io",
-        "assets": [
-            {
-                "code": "BTC",
-                "issuer": "GAUTUYY2THLF7SGITDFMXJVYH3LHDSMGEAKSBU267M2K7A3W543CKUEF",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "LTC",
-                "issuer": "GC5LOR3BK6KIOK7GKAUD5EGHQCMFOGHJTC7I3ELB66PTDFXORC2VM5LP",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "ETH",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "KIN",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true
-            },
-            {
-                "code": "LINK",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "ZRX",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": false
-            },
-            {
-                "code": "BAT",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "BCH",
-                "issuer": "GAEGOS7I6TYZSVHPSN76RSPIVL3SELATXZWLFO4DIAFYJF7MPAHFE7H4",
-                "withdraw": false,
-                "deposit": false
-            },
-            {
-                "code": "DASH",
-                "issuer": "GDFGEXEBIMLP5UFC36TFENBHRJSW7AQZUPXNTTM2WO532KBXCVPUKFGB",
-                "withdraw": false,
-                "deposit": false
-            },
-            {
-                "code": "MTL",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": false,
-                "deposit": false
-            },
-            {
-                "code": "OMG",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": false
-            },
-            {
-                "code": "REP",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": true,
-                "deposit": false
-            },
-            {
-                "code": "SALT",
-                "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-                "withdraw": false,
-                "deposit": false
-            },
-            {
-                "code": "USDT",
-                "issuer": "GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V",
-                "withdraw": true,
-                "deposit": true
-            }
-        ]
-    },
-    {
-        "domain": "mobius.network",
-        "website": "https://mobius.network/",
-        "logo": "mobius.network",
-        "color": "#6f39fc",
-        "displayName": "Mobius",
-        "assets": [
-            {
-                "code": "MOBI",
-                "issuer": "GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH"
-            }
-        ]
-    },
-    {
-        "domain": "stellarport.io",
-        "website": "https://stellarport.io/",
-        "support": "support@stellarport.io",
-        "logo": "stellarport",
-        "color": "#00a5ed",
-        "displayName": "Stellarport",
-        "assets": [
-            {
-                "code": "BTC",
-                "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "XRP",
-                "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "ETH",
-                "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
-            },
-            {
-                "code": "LTC",
-                "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
-                "withdraw": true,
-                "deposit": true
-            }
-        ]
-    },
-    {
-        "domain": "interstellar.exchange",
-        "website": "https://interstellar.exchange/",
-        "logo": "interstellar",
-        "color": "#62a9e3",
-        "displayName": "Interstellar",
-        "assets": [
-            {
-                "code": "ETH",
-                "issuer": "GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P"
-            }
-        ]
-    },
-    {
-        "domain": "fchain.io",
-        "website": "https://fchain.io/",
-        "support": "support@fchain.io",
-        "logo": "fchain",
-        "color": "#1fc785",
-        "displayName": "Firefly",
-        "assets": [
-            {
-                "code": "ETH",
-                "issuer": "GBETHKBL5TCUTQ3JPDIYOZ5RDARTMHMEKIO2QZQ7IOZ4YC5XV3C2IKYU",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "XRP",
-                "issuer": "GBXRPL45NPHCVMFFAYZVUVFFVKSIZ362ZXFP7I2ETNQ3QKZMFLPRDTD5",
-                "withdraw": true,
-                "deposit": true
-            },
-            {
-                "code": "BCH",
-                "issuer": "GBCHK4TINAK6KXTD4BBWWKR5BI2OKJ7C7HYX55BJ5I4KHNQMTL5UXBCH",
-                "withdraw": true,
-                "deposit": true
-            }
-        ]
-    },
-    {
-        "domain": "ultrastellar.com",
-        "website": "https://ultrastellar.com/",
-        "logo": "ultrastellar.com",
-        "support": "support@ultrastellar.com",
-        "color": "#313744",
-        "displayName": "Ultra Stellar",
-        "assets": [
-            {
-                "code": "yUSDC",
-                "issuer": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
-                "anchor_asset": "USDC",
-                "withdraw": true,
-                "deposit": true,
-                "sep24": true,
-                "isCounterSelling": true
-            },
-            {
-                "code": "yETH",
-                "issuer": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
-                "anchor_asset": "ETH",
-                "withdraw": true,
-                "deposit": true,
-                "sep24": true
-            },
-            {
-                "code": "yXLM",
-                "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
-                "anchor_asset": "XLM",
-                "withdraw": true,
-                "deposit": true,
-                "sep24": true
-            },
-            {
-                "code": "yBTC",
-                "issuer": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
-                "anchor_asset": "BTC",
-                "withdraw": true,
-                "deposit": true,
-                "sep24": true,
-                "isCounterSelling": true
-            }
-        ]
-    },
-    {
-        "domain": "doge-token.com",
-        "website": "https://doge-token.com",
-        "logo": "doge-token.com",
-        "color": "#7f525e",
-        "displayName": "DOGE TOKEN",
-        "assets": [
-            {
-                "code": "DOGET",
-                "issuer": "GDOEVDDBU6OBWKL7VHDAOKD77UP4DKHQYKOKJJT5PR3WRDBTX35HUEUX"
-            }
-        ]
-    }
+  {
+    "domain": "1coin.io",
+    "website": "https://1coin.io",
+    "logo": "1coin.io",
+    "color": "#37A8EE",
+    "displayName": "1CAT",
+    "assets": [
+      {
+        "code": "1CAT",
+        "issuer": "GBCSYNK2B26ATKQXLFJ33WOFG4NT7WHO7QKW5DN6ZYRIMEFLN7JAM7XC"
+      }
+    ]
+  },
+  {
+    "domain": "useswivel.com",
+    "website": "https://useswivel.com",
+    "logo": "useswivel.com",
+    "color": "#68DF35",
+    "displayName": "SVL",
+    "assets": [
+      {
+        "code": "SVL",
+        "issuer": "GAZ7YF3VH7HHJFW2LCRKUVIBTTDJKJL5UDCNZGU3VEHZXUGSQCJ6Y6AD"
+      }
+    ]
+  },
+  {
+    "domain": "www.anchorusd.com",
+    "website": "https://www.anchorusd.com/",
+    "support": "support@anchorusd.com",
+    "logo": "anchorusd.com",
+    "color": "#00b4ce",
+    "displayName": "AnchorUSD",
+    "assets": [
+      {
+        "code": "USD",
+        "issuer": "GDUKMGUGDZQK6YHYA5Z6AY2G4XDSZPSZ3SW5UN3ARVMO6QSRDWP5YLEX",
+        "isCounterSelling": "true",
+        "withdraw": false,
+        "deposit": true
+      }
+    ]
+  },
+  {
+    "domain": "smartlands.io",
+    "website": "https://smartlands.io",
+    "logo": "smartlands.io",
+    "color": "#35AB62",
+    "displayName": "Smartlands",
+    "assets": [
+      {
+        "code": "SLT",
+        "issuer": "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
+      }
+    ]
+  },
+  {
+    "domain": "stronghold.co",
+    "website": "https://stronghold.co",
+    "logo": "stronghold.co",
+    "color": "#13ce66",
+    "displayName": "Stronghold",
+    "assets": [
+      {
+        "code": "XLM",
+        "issuer": "GBSTRH4QOTWNSVA6E4HFERETX4ZLSR3CIUBLK7AXYII277PFJC4BBYOG",
+        "unlisted": true
+      },
+      {
+        "code": "SHX",
+        "issuer": "GDSTRSHXHGJ7ZIVRBXEYE5Q74XUVCUSEKEBR7UCHEUUEK72N7I7KJ6JH"
+      }
+    ]
+  },
+  {
+    "domain": "sureremit.co",
+    "website": "https://sureremit.co",
+    "logo": "sureremit.co",
+    "color": "#363187",
+    "displayName": "SureRemit",
+    "assets": [
+      {
+        "code": "RMT",
+        "issuer": "GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N"
+      }
+    ]
+  },
+  {
+    "domain": "ripplefox.com",
+    "website": "https://ripplefox.com/anchor/",
+    "logo": "ripplefox.com",
+    "color": "#fc682a",
+    "displayName": "RippleFox",
+    "assets": [
+      {
+        "code": "CNY",
+        "issuer": "GAREELUB43IRHWEASCFBLKHURCGMHE5IF6XSE7EXDLACYHGRHM43RFOX",
+        "isCounterSelling": "true"
+      }
+    ]
+  },
+  {
+    "domain": "apay.io",
+    "website": "https://apay.io/",
+    "support": "support@apay.io",
+    "logo": "papayame.com",
+    "color": "#efa344",
+    "displayName": "apay.io",
+    "assets": [
+      {
+        "code": "BTC",
+        "issuer": "GAUTUYY2THLF7SGITDFMXJVYH3LHDSMGEAKSBU267M2K7A3W543CKUEF",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "LTC",
+        "issuer": "GC5LOR3BK6KIOK7GKAUD5EGHQCMFOGHJTC7I3ELB66PTDFXORC2VM5LP",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "ETH",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "KIN",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true
+      },
+      {
+        "code": "LINK",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "ZRX",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": false
+      },
+      {
+        "code": "BAT",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "BCH",
+        "issuer": "GAEGOS7I6TYZSVHPSN76RSPIVL3SELATXZWLFO4DIAFYJF7MPAHFE7H4",
+        "withdraw": false,
+        "deposit": false
+      },
+      {
+        "code": "DASH",
+        "issuer": "GDFGEXEBIMLP5UFC36TFENBHRJSW7AQZUPXNTTM2WO532KBXCVPUKFGB",
+        "withdraw": false,
+        "deposit": false
+      },
+      {
+        "code": "MTL",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": false,
+        "deposit": false
+      },
+      {
+        "code": "OMG",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": false
+      },
+      {
+        "code": "REP",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": true,
+        "deposit": false
+      },
+      {
+        "code": "SALT",
+        "issuer": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
+        "withdraw": false,
+        "deposit": false
+      },
+      {
+        "code": "USDT",
+        "issuer": "GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V",
+        "withdraw": true,
+        "deposit": true
+      }
+    ]
+  },
+  {
+    "domain": "stellarport.io",
+    "website": "https://stellarport.io/",
+    "support": "support@stellarport.io",
+    "logo": "stellarport",
+    "color": "#00a5ed",
+    "displayName": "Stellarport",
+    "assets": [
+      {
+        "code": "BTC",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "XRP",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+        "withdraw": true,
+        "deposit": true
+      },
+      {
+        "code": "ETH",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5"
+      },
+      {
+        "code": "LTC",
+        "issuer": "GBVOL67TMUQBGL4TZYNMY3ZQ5WGQYFPFD5VJRWXR72VA33VFNL225PL5",
+        "withdraw": true,
+        "deposit": true
+      }
+    ]
+  },
+  {
+    "domain": "interstellar.exchange",
+    "website": "https://interstellar.exchange/",
+    "logo": "interstellar",
+    "color": "#62a9e3",
+    "displayName": "Interstellar",
+    "assets": [
+      {
+        "code": "ETH",
+        "issuer": "GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P"
+      }
+    ]
+  },
+  {
+    "domain": "ultrastellar.com",
+    "website": "https://ultrastellar.com/",
+    "logo": "ultrastellar.com",
+    "support": "support@ultrastellar.com",
+    "color": "#313744",
+    "displayName": "Ultra Stellar",
+    "assets": [
+      {
+        "code": "yUSDC",
+        "issuer": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
+        "anchor_asset": "USDC",
+        "withdraw": true,
+        "deposit": true,
+        "sep24": true,
+        "isCounterSelling": true
+      },
+      {
+        "code": "yETH",
+        "issuer": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
+        "anchor_asset": "ETH",
+        "withdraw": true,
+        "deposit": true,
+        "sep24": true
+      },
+      {
+        "code": "yXLM",
+        "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
+        "anchor_asset": "XLM",
+        "withdraw": true,
+        "deposit": true,
+        "sep24": true
+      },
+      {
+        "code": "yBTC",
+        "issuer": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
+        "anchor_asset": "BTC",
+        "withdraw": true,
+        "deposit": true,
+        "sep24": true,
+        "isCounterSelling": true
+      }
+    ]
+  },
+  {
+    "domain": "doge-token.com",
+    "website": "https://doge-token.com",
+    "logo": "doge-token.com",
+    "color": "#7f525e",
+    "displayName": "DOGE TOKEN",
+    "assets": [
+      {
+        "code": "DOGET",
+        "issuer": "GDOEVDDBU6OBWKL7VHDAOKD77UP4DKHQYKOKJJT5PR3WRDBTX35HUEUX"
+      }
+    ]
+  }
 ]
